@@ -1,0 +1,12 @@
+com/authhub/authhub/entities/Token.class
+com/authhub/authhub/repository/QueryResponce.class
+com/authhub/authhub/repository/QueryResponce3.class
+com/authhub/authhub/entities/Client.class
+com/authhub/authhub/servicePackage/ServiceInterface.class
+com/authhub/authhub/controllerPackage/Controller.class
+com/authhub/authhub/AuthhubApplication.class
+com/authhub/authhub/servicePackage/ServiceImpl.class
+com/authhub/authhub/entities/ClientChallengeDTO.class
+com/authhub/authhub/repository/QueryResponce2.class
+com/authhub/authhub/entities/TokenResponseDTO.class
+com/authhub/authhub/entities/ClientChallenge.class
